@@ -1,5 +1,5 @@
 # GZE_Bush
-Bush Test, just for fun
+Initially for a bush test, but these theses are more like a lotus flower
 
 ## [Bush1](https://cwc-gze.github.io/GZE_Bush/Test/Bush1/App.html)
 
